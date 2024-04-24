@@ -130,4 +130,4 @@ If you find this repository useful, please consider citing this paper:
 ```
 Please send an email to hao.li.1@vanderbilt.edu for any questions and always happy to help! :)
 
-Original [PRISM](https://github.com/HaoLi12345/PRISM)
+Original [PRISM](https://github.com/HaoLi12345/PRISM) repository.
