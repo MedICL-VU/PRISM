@@ -119,11 +119,13 @@ The model is licensed under the [Apache 2.0 license](LICENSE)
 
 If you find this repository useful, please consider citing this paper:
 ```
-@article{li2023promise,
-  title={Promise: Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models},
-  author={Li, Hao and Liu, Han and Hu, Dewei and Wang, Jiacheng and Oguz, Ipek},
-  journal={arXiv preprint arXiv:2310.19721},
-  year={2023}
+@misc{li2024prism,
+      title={PRISM: A Promptable and Robust Interactive Segmentation Model with Visual Prompts}, 
+      author={Hao Li and Han Liu and Dewei Hu and Jiacheng Wang and Ipek Oguz},
+      year={2024},
+      eprint={2404.15028},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 Please send an email to hao.li.1@vanderbilt.edu for any questions and always happy to help! :)
