@@ -1,5 +1,5 @@
 # PRISM
-[PRISM](https://arxiv.org/pdf/2404.15028.pdf](https://arxiv.org/abs/2404.15028): A **P**romptable and **R**obust **I**nteractive **S**egmentation **M**odel with Visual Prompts
+[PRISM](https://arxiv.org/abs/2404.15028): A **P**romptable and **R**obust **I**nteractive **S**egmentation **M**odel with Visual Prompts
 
 ## News
 
