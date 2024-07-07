@@ -34,7 +34,7 @@ Iterative correction for colon tumor | ![iterative_colon](figs/iterative_results
 Iterative correction for multiple tumors | ![iterative_all](figs/iterative_results_supp.png)
 Qualitative results with compared methods | ![qualitative_results](figs/qualitative_results.png)
 
-
+The quantitative results can be viewed in our [paper](https://arxiv.org/abs/2404.15028).
 
 ## Datasets
 The anatomical differences among individuals and ambiguous boundaries are present in the datasets.
