@@ -77,6 +77,7 @@ pip install -r requirements.txt
 python train.py --data colon --data_dir your_data_directory --save_name your_save_name --multiple_outputs --dynamic --use_box --refine
 ```
 
+add "--use_scribble" and "--efficient_scribble" if you want to train with scribbles.
 
 **Train (Distributed Data Parallel)**
 
