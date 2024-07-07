@@ -5,7 +5,7 @@
 The Arxiv PDF file is loading a bit slowly.
 
 ## News
-[07/07/24] Check out the performance/version of [PRISM on placenta segmentation in ultrasound images](https://github.com/MedICL-VU/PRISM-placenta).
+[07/07/24] Check out the decent performance/version of [PRISM on placenta segmentation in ultrasound images](https://github.com/MedICL-VU/PRISM-placenta).
 
 [05/13/24] Our work is early accepted by MICCAI 2024.
 
