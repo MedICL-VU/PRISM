@@ -115,11 +115,7 @@ The model is licensed under the [Apache 2.0 license](LICENSE)
 
 
 ## Acknowledgements
-
-+ [SAM](https://github.com/facebookresearch/segment-anything)
-+ [SAM-Med3D](https://github.com/uni-medical/SAM-Med3D)
-+ [ProMISe](https://github.com/HaoLi12345/PRISM)
-+ [nnU-Net](https://github.com/MIC-DKFZ/nnUNet)
+Thanks for the code from these work: [SAM](https://github.com/facebookresearch/segment-anything), [SAM-Med3D](https://github.com/uni-medical/SAM-Med3D), [ProMISe](https://github.com/MedICL-VU/ProMISe), [ScribblePrompt](https://github.com/halleewong/ScribblePrompt), [nnU-Net](https://github.com/MIC-DKFZ/nnUNet)
 
 If you find this repository useful, please consider citing this paper:
 ```
