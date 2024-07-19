@@ -126,6 +126,14 @@ If you find this repository useful, please consider citing this paper:
   year={2024}
 }
 ```
+```
+@article{li2024interactive,
+  title={Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images},
+  author={Li, Hao and Oguz, Baris and Arenas, Gabriel and Yao, Xing and Wang, Jiacheng and Pouch, Alison and Byram, Brett and Schwartz, Nadav and Oguz, Ipek},
+  journal={arXiv preprint arXiv:2407.08020},
+  year={2024}
+}
+```
 Please send an email to hao.li.1@vanderbilt.edu for any questions and always happy to help! :)
 
 Original [PRISM](https://github.com/HaoLi12345/PRISM) repository.
