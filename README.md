@@ -2,7 +2,12 @@
 
 [PRISM](https://arxiv.org/abs/2404.15028): A **P**romptable and **R**obust **I**nteractive **S**egmentation **M**odel with Visual Prompts
 
-The Arxiv PDF file is loading a bit slowly.
+Placenta application:
+
+[PRISM Lite](https://arxiv.org/abs/2408.05372): A lightweight model for interactive 3D placenta segmentation in ultrasound
+
+Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound Images ([arXiv version](https://arxiv.org/abs/2407.08020))
+
 
 ## News
 [07/07/24] Check out the decent performance/version of [PRISM on placenta segmentation in ultrasound images](https://github.com/MedICL-VU/PRISM-placenta).
