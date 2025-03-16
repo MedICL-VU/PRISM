@@ -23,7 +23,7 @@ demo (gradio)
 
 
 
-## What is PRISM?
+## Introduction of PRISM
 <img src='figs/framework_v1.png' width='600'>
 
 PRISM is a robust model/method for interactive segmentation in medical imaging. We strive for human-level performance, as a human-in-loop interactive segmentation model with prompts should gradually refine its outcomes until they closely match inter-rater variability. 
