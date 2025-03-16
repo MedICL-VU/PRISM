@@ -124,19 +124,23 @@ Thanks for the code from: [SAM](https://github.com/facebookresearch/segment-anyt
 
 If you find this repository useful, please consider citing this paper:
 ```
-@article{li2024prism,
-  title={PRISM: A Promptable and Robust Interactive Segmentation Model with Visual Prompts},
+@inproceedings{li2024prism,
+  title={Prism: A promptable and robust interactive segmentation model with visual prompts},
   author={Li, Hao and Liu, Han and Hu, Dewei and Wang, Jiacheng and Oguz, Ipek},
-  journal={arXiv preprint arXiv:2404.15028},
-  year={2024}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={389--399},
+  year={2024},
+  organization={Springer}
 }
 ```
 ```
-@article{li2024interactive,
-  title={Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images},
+@inproceedings{li2024interactive,
+  title={Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound Images},
   author={Li, Hao and Oguz, Baris and Arenas, Gabriel and Yao, Xing and Wang, Jiacheng and Pouch, Alison and Byram, Brett and Schwartz, Nadav and Oguz, Ipek},
-  journal={arXiv preprint arXiv:2407.08020},
-  year={2024}
+  booktitle={International Workshop on Advances in Simplifying Medical Ultrasound},
+  pages={132--142},
+  year={2024},
+  organization={Springer}
 }
 ```
 Please send an email to hao.li.1@vanderbilt.edu for any questions and always happy to help! :)
